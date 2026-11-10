@@ -1,0 +1,32 @@
+[sidebar]
+  subtitle = "义乌小商品采购 · 10年外贸经验 · OEM/ODM · 全球发货"
+  avatar = "img/avatar.png"
+  showReadingTime = false
+
+[socialIcons]
+  socialIcons = [
+    { name = "email", url = "mailto:info@yourdomain.com" },
+    { name = "whatsapp", url = "https://wa.me/8613800000000" }
+  ]
+
+[homepage]
+  mode = "custom"
+
+[article]
+  showLicense = false
+  showShare = true
+  showToc = true
+
+[dateFormat]
+  published = "2006-01-02"
+  lastUpdated = "2006-01-02 15:04"
+
+[pagination]
+  pagerSize = 9
+
+[list]
+  layout = "default"
+
+[mainSections]
+  sections = ["post", "products"]
+

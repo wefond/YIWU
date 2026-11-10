@@ -1,0 +1,23 @@
+baseURL = "https://localhost:1313/"
+# baseURL = https://wefond.com.cn
+locale = "zh-CN"
+title = "义乌为丰进出口商行"
+theme = "stack"
+
+defaultContentLanguage = "zh"
+defaultContentLanguageInSubdir = true
+hasCJKLanguage = true
+
+[languages]
+  [languages.zh]
+    weight = 1
+    label = "中文"
+    contentDir = "content/zh"
+    [languages.zh.params]
+      subtitle = "义乌小商品采购 · 10年外贸经验 · OEM/ODM · 全球发货"
+  [languages.en]
+    weight = 2
+    label = "English"
+    contentDir = "content/en"
+    [languages.en.params]
+      subtitle = "Yiwu Sourcing · Jewelry/Daily/Gifts · OEM&ODM"
