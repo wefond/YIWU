@@ -1,5 +1,5 @@
 #baseURL = "https://localhost:1313/"
-baseURL = https://wefond.com.cn
+baseURL = "https://wefond.com.cn/"
 locale = "zh-CN"
 title = "义乌为丰进出口商行"
 theme = "stack"
